@@ -6,4 +6,4 @@ main: Master branch that will include as much as possible for one storage locati
 
 gamedev: Intended to be used with game developers that need organization for files related to game design that everyday users will unlikely need.
 
-graphic design: For graphic designers that have many different stock files, working files, and catogorized content.
+graphicdesign: For graphic designers that have many different stock files, working files, and catogorized content.
